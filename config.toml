@@ -30,7 +30,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-arch = "all"
+arch = "both"
 
 [YouTube-Extended]
 app-name = "YouTube"
